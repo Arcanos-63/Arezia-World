@@ -1,0 +1,5 @@
+Depot TrinityCore 3.3.5
+git clone -b 3.3.5 git://github.com/TrinityCore/TrinityCore.git
+
+Variables BOOST_ROOT
+C:/local/boost_1_66_0
